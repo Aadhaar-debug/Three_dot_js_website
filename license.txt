@@ -1,0 +1,11 @@
+Model Information:
+* title:	NRG PISTOL
+* source:	https://sketchfab.com/3d-models/nrg-pistol-4543434b590e4d87881e3f9f8340b4b0
+* author:	MaxNeru (https://sketchfab.com/MaxNeru)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "NRG PISTOL" (https://sketchfab.com/3d-models/nrg-pistol-4543434b590e4d87881e3f9f8340b4b0) by MaxNeru (https://sketchfab.com/MaxNeru) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
